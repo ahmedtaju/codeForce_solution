@@ -1,5 +1,5 @@
-t=int(input())
-for i in range(t):
+test_cases = int(input())
+for i in range(test_cases):
     n=int(input())
     s=input()
     if s==s[::-1]:
